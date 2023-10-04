@@ -30,11 +30,11 @@ Go to the project directory
 Hide your chicken
 
 ```bash
-  py hide-chicken.py "text" image
+  py hide-chicken.py
 ```
 
 Reveal your chicken
 
 ```bash
-  py reveal-chicken.py image
+  py reveal-chicken.py
 ```
