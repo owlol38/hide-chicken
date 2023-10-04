@@ -11,7 +11,7 @@ hide-chicken is a mini Python tool that allows you to conceal a secret phrase wi
 
 ## Tech
 
-**Python :** 
+**Python :** Tkinter
 
 ## Run Locally
 
